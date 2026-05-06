@@ -6,14 +6,14 @@ This repository showcases the strategic UI/UX architecture and business logic fo
 ## 🎯 Project Goals & Strategy
 * **High-Conversion UX:** Designed a dark-themed, premium interface to establish brand authority and trust.
 * **Automated Workflow:** Architected the integration between front-end order forms and third-party fulfillment APIs.
-* **Service Scalability:** Structured the pricing grid to accommodate diverse service tiers (Followers, Likes, Views)
+* **Service Scalability:** Structured the pricing grid to accommodate diverse service tiers (Followers, Likes, Views).
 * **Retention Design:** Implemented a clean dashboard layout to encourage repeat purchases.
 
 ## 🖥️ Visual Identity & UI Showcase
 The interface prioritizes a mobile-first approach with high-contrast Call-to-Action (CTA) elements and a modern aesthetic.
 
 <p align="center">
-  <img src="./concepts/smm-design.png" width="800" alt="SMM Platform UI Design">
+  <img src="./concepts/smm-design.png.png" width="800" alt="SMM Platform UI Design">
 </p>
 
 ## 🛠️ Key Expertise Applied
