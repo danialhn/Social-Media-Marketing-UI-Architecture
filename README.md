@@ -6,7 +6,7 @@ This repository showcases the strategic UI/UX architecture and business logic fo
 ## 🎯 Project Goals & Strategy
 * **High-Conversion UX:** Designed a dark-themed, premium interface to establish brand authority and trust.
 * **Automated Workflow:** Architected the integration between front-end order forms and third-party fulfillment APIs.
-* **Service Scalability:** Structured the pricing grid to accommodate diverse service tiers (Followers, Likes, Views).
+* **Service Scalability:** Structured the pricing grid to accommodate diverse service tiers (Followers, Likes, Views)
 * **Retention Design:** Implemented a clean dashboard layout to encourage repeat purchases.
 
 ## 🖥️ Visual Identity & UI Showcase
